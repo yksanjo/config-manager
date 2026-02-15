@@ -1,0 +1,15 @@
+{
+  "name": "config-manager",
+  "version": "1.0.0",
+  "description": "Standalone library for managing security configurations and policies",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": { "build": "tsc" },
+  "keywords": ["security", "config", "configuration", "policy"],
+  "author": "yksanjo",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "typescript": "^5.3.2"
+  }
+}
